@@ -1,7 +1,7 @@
 # Sdaia T5-BootCamp: Data Science and Artificial Intelligence
 
 <p align="center">
-  <img src="SDAIA-LOGO.png" alt="SDAIA Logo" width="400">
+  <img src="SDAIA-LOGO.png" alt="SDAIA Logo" width="600">
 </p>
 
 ## Bootcamp Overview
