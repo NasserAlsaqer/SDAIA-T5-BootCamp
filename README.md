@@ -1,7 +1,7 @@
 # Sdaia T5-BootCamp: Data Science and Artificial Intelligence
 
 <p align="center">
-  <img src="https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/C:\Users\naser\Downloads\SDAIA-LOGO-01-1-e1708350731492.png" alt="SDAIA Logo" width="400">
+  <img src="SDAIA-LOGO.png" alt="SDAIA Logo" width="400">
 </p>
 
 ## Bootcamp Overview
